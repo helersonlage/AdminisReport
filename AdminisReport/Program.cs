@@ -17,7 +17,7 @@ namespace AdminisReport
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new AdminisService()
             };
             ServiceBase.Run(ServicesToRun);
         }

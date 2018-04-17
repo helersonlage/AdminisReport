@@ -1,6 +1,6 @@
 ﻿namespace AdminisReport
 {
-    partial class Service1
+    partial class AdminisService
     {
         /// <summary> 
         /// Required designer variable.
